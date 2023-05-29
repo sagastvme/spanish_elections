@@ -1,0 +1,166 @@
+{
+  "elections": [
+    {
+      "Madrid": {
+        "Escrutinio": "99,97%",
+        "Participacion": "69,88%",
+        "Mayoria": "68",
+        "Total": "135",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 71, "Porcentaje": "47,34", "Votos": "1.586.985" },
+          { "Partido": "MM-VQ", "Escanos": 27, "Porcentaje": "18,35", "Votos": "615.171" },
+          { "Partido": "PSOE", "Escanos": 27, "Porcentaje": "18,19", "Votos": "609.718" },
+          { "Partido": "VOX", "Escanos": 10, "Porcentaje": "7,31", "Votos": "245.215" }
+        ]
+      },
+      "Extremadura": {
+        "Escrutinio": "99,65%",
+        "Participacion": "72,41%",
+        "Mayoria": "33",
+        "Total": "65",
+        "Escanos": [
+          { "Partido": "PSOE", "Escanos": 28, "Porcentaje": "39,89", "Votos": "242.366" },
+          { "Partido": "PP", "Escanos": 28, "Porcentaje": "38,85", "Votos": "236.090" },
+          { "Partido": "VOX", "Escanos": 5, "Porcentaje": "8,12", "Votos": "49.342" },
+          { "Partido": "PODEMOS-IU-AV", "Escanos": 4, "Porcentaje": "5,98", "Votos": "36.373" }
+        ]
+      },
+      "Castilla-La Mancha": {
+        "Escrutinio": "98,78%",
+        "Participacion": "71,08%",
+        "Mayoria": "17",
+        "Total": "33",
+        "Escanos": [
+          { "Partido": "PSOE", "Escanos": 17, "Porcentaje": "45,06", "Votos": "483.500" },
+          { "Partido": "PP", "Escanos": 12, "Porcentaje": "33,65", "Votos": "361.155" },
+          { "Partido": "VOX", "Escanos": 4, "Porcentaje": "12,83", "Votos": "137.765" }
+        ]
+      },
+
+      "Murcia": {
+        "Escrutinio": "98,04%",
+        "Participacion": "65,25%",
+        "Mayoria": "23",
+        "Total": "45",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 21, "Porcentaje": "42,84", "Votos": "286.571" },
+          { "Partido": "PSOE", "Escanos": 13, "Porcentaje": "25,6", "Votos": "171.271" },
+          { "Partido": "VOX", "Escanos": 9, "Porcentaje": "17,72", "Votos": "118.546" },
+          { "Partido": "Podemos +IU-Verdes + AV", "Escanos": 2, "Porcentaje": "4,68", "Votos": "31.340" }
+        ]
+      },
+      "C. Valenciana": {
+        "Escrutinio": "98,01%",
+        "Participacion": "69,01%",
+        "Mayoria": "50",
+        "Total": "99",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 40, "Porcentaje": "35,37", "Votos": "863.043" },
+          { "Partido": "PSOE", "Escanos": 31, "Porcentaje": "28,35", "Votos": "691.715" },
+          { "Partido": "COMPROMÌS", "Escanos": 15, "Porcentaje": "14,3", "Votos": "349.096" },
+          { "Partido": "VOX", "Escanos": 13, "Porcentaje": "12,41", "Votos": "302.885" }
+        ]
+      },
+      "Aragón": {
+        "Escrutinio": "98,2%",
+        "Participacion": "68,89%",
+        "Mayoria": "34",
+        "Total": "67",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 28, "Porcentaje": "35,55", "Votos": "232.712" },
+          { "Partido": "PSOE", "Escanos": 23, "Porcentaje": "29,51", "Votos": "193.170" },
+          { "Partido": "VOX", "Escanos": 7, "Porcentaje": "11,25", "Votos": "73.677" },
+          { "Partido": "CHA", "Escanos": 3, "Porcentaje": "5,11", "Votos": "33.454" },
+          { "Partido": "EXISTE", "Escanos": 3, "Porcentaje": "4,99", "Votos": "32.717" },
+          { "Partido": "PODEMOS ALIANZA VERDE", "Escanos": 1, "Porcentaje": "3,98", "Votos": "26.087" },
+          { "Partido": "IUA", "Escanos": 1, "Porcentaje": "3,1", "Votos": "20.310" },
+          { "Partido": "PAR", "Escanos": 1, "Porcentaje": "2,1", "Votos": "13.746" }
+        ]
+      },
+      "La Rioja": {
+        "Escrutinio": "100%",
+        "Participacion": "72,48%",
+        "Mayoria": "17",
+        "Total": "33",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 17, "Porcentaje": "45,44", "Votos": "75.859" },
+          { "Partido": "PSOE", "Escanos": 12, "Porcentaje": "31,92", "Votos": "53.295" },
+          { "Partido": "VOX", "Escanos": 2, "Porcentaje": "7,57", "Votos": "12.634" },
+          { "Partido": "PODEMOS-IU", "Escanos": 2, "Porcentaje": "5,07", "Votos": "8.457" }
+        ]
+      },
+      "Navarra": {
+        "Escrutinio": "98,14%",
+        "Participacion": "67,76%",
+        "Mayoria": "26",
+        "Total": "50",
+        "Escanos": [
+          { "Partido": "UPN", "Escanos": 15, "Porcentaje": "27,92", "Votos": "89.643" },
+          { "Partido": "PSN-PSOE", "Escanos": 11, "Porcentaje": "20,7", "Votos": "66.448" },
+          { "Partido": "EH Bildu", "Escanos": 9, "Porcentaje": "17,28", "Votos": "55.478" },
+          { "Partido": "GBAI", "Escanos": 7, "Porcentaje": "13,29", "Votos": "42.665" },
+          { "Partido": "PPN", "Escanos": 3, "Porcentaje": "7,19", "Votos": "23.080" },
+          { "Partido": "CNZN", "Escanos": 3, "Porcentaje": "6,08", "Votos": "19.539" },
+          { "Partido": "VOX", "Escanos": 2, "Porcentaje": "4,28", "Votos": "13.754" }
+        ]
+      },
+      "Cantabria": {
+        "Escrutinio": "99,82%",
+        "Participacion": "70,52%",
+        "Mayoria": "18",
+        "Total": "35",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 15, "Porcentaje": "35,8", "Votos": "115.168" },
+          { "Partido": "PRC", "Escanos": 8, "Porcentaje": "20,86", "Votos": "67.106" },
+          { "Partido": "PSC-PSOE", "Escanos": 8, "Porcentaje": "20,59", "Votos": "66.250" },
+          { "Partido": "VOX", "Escanos": 4, "Porcentaje": "11,07", "Votos": "35.625" }
+        ]
+      },
+      "Asturias": {
+        "Escrutinio": "98,4%",
+        "Participacion": "64,36%",
+        "Mayoria": "23",
+        "Total": "45",
+        "Escanos": [
+          { "Partido": "PSOE", "Escanos": 19, "Porcentaje": "36,5", "Votos": "190.392" },
+          { "Partido": "PP", "Escanos": 17, "Porcentaje": "32,65", "Votos": "170.331" },
+          { "Partido": "VOX", "Escanos": 4, "Porcentaje": "10,07", "Votos": "52.546" },
+          { "Partido": "IU-MÁS PAÍS-IAS", "Escanos": 3, "Porcentaje": "7,61", "Votos": "39.715" },
+          { "Partido": "PODEMOS", "Escanos": 1, "Porcentaje": "3,9", "Votos": "20.349" },
+          { "Partido": "FORO ASTURIAS", "Escanos": 1, "Porcentaje": "3,7", "Votos": "19.313" }
+        ]
+      },
+      "Canarias": {
+        "Escrutinio": "96,96%",
+        "Participacion": "57,2%",
+        "Mayoria": "36",
+        "Total": "70",
+        "Escanos": [
+          { "Partido": "PSOE", "Escanos": 23, "Porcentaje": "27,17", "Votos": "239.070" },
+          { "Partido": "CCa", "Escanos": 19, "Porcentaje": "21,84", "Votos": "192.203" },
+          { "Partido": "PP", "Escanos": 15, "Porcentaje": "19,4", "Votos": "170.747" },
+          { "Partido": "NC-bc", "Escanos": 5, "Porcentaje": "8,07", "Votos": "71.021" },
+          { "Partido": "VOX", "Escanos": 4, "Porcentaje": "7,85", "Votos": "69.158" },
+          { "Partido": "ASG", "Escanos": 3, "Porcentaje": "0,69", "Votos": "6.112" },
+          { "Partido": "A.H.I", "Escanos": 1, "Porcentaje": "0,18", "Votos": "1.644" }
+        ]
+      },
+      "Baleares": {
+        "Escrutinio": "99,2%",
+        "Participacion": "57,21%",
+        "Mayoria": "30",
+        "Total": "59",
+        "Escanos": [
+          { "Partido": "PP", "Escanos": 25, "Porcentaje": "35,83", "Votos": "159.755" },
+          { "Partido": "PSOE", "Escanos": 18, "Porcentaje": "26,5", "Votos": "118.140" },
+          { "Partido": "VOX", "Escanos": 8, "Porcentaje": "13,9", "Votos": "62.004" },
+          { "Partido": "MÉS", "Escanos": 4, "Porcentaje": "8,35", "Votos": "37.227" },
+          { "Partido": "MxMe", "Escanos": 2, "Porcentaje": "1,43", "Votos": "6.382" },
+          { "Partido": "UNIDAS PODEMOS", "Escanos": 1, "Porcentaje": "4,4", "Votos": "19.632" },
+          { "Partido": "SA UNIÓ", "Escanos": 1, "Porcentaje": "0,39", "Votos": "1.746" }
+        ]
+      }
+
+    }
+  ]
+}
